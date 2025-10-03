@@ -1,0 +1,9 @@
+CompileFlags:
+  Add:
+    - -I./lib/kernel/. 
+    - -I./lib/kernel/include 
+    - -I./lib/kernel/patch/include 
+    - -I./lib/kernel/linux/include 
+    - -I./lib/kernel/linux/arch/arm64/include 
+    - -I./lib/kernel/linux/tools/arch/arm64/include
+
