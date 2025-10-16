@@ -1,0 +1,6 @@
+id=samsung_kbd_override
+name=Samsung Keyboard Override
+version=1.0
+versionCode=1
+author=EvanReichard
+description=Fixes Samsung keyboard driver binding issues
